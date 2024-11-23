@@ -1,4 +1,4 @@
 
 <div id="header" align="center">
-  <img src="[url=https://postimg.cc/Fk7WPGq4][img]https://i.postimg.cc/Fk7WPGq4/Untitled-Project-19.jpg[/img][/url]"/>
+  <img src="https://i.postimg.cc/NFx3jzk5/Untitled-Project-19.jpg"/>
 </div>
