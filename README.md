@@ -6,5 +6,5 @@
   	<ins>Tom</ins>my   /   <ins>Sc</ins>ar   !!     ⭑     <ins>He   /   It  /   Star   /   Sun</ins> 
 </h4>
 <div align="center">
-  <img src="https://64.media.tumblr.com/a74d0f005feae155f2e7b3f52d6475a4/3a9a394462f13559-49/s75x75_c1/a78d3d8dcee76300f6645c17c75a33868e70bc19.gifv" width="600" height="300"/>
+  <img src="https://64.media.tumblr.com/a74d0f005feae155f2e7b3f52d6475a4/3a9a394462f13559-49/s75x75_c1/a78d3d8dcee76300f6645c17c75a33868e70bc19.gifv"/>
 </div>
